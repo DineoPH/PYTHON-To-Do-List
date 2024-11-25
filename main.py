@@ -34,3 +34,5 @@ while True:
 
     else:
         print("Invalid choice. Please try again.")
+
+# End of the program
